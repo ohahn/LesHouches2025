@@ -1,4 +1,5 @@
 # Additional Material for Lecture at Les Houches Summer School 2025 "The Dark Universe" by Oliver Hahn
+Link to the lecture recording and lecture slides: [via indico, click here](https://indico.iap.fr/event/25/contributions/227/)
 
 This repo contains material used during the lecture on initial conditions and fast simulations by Oliver Hahn held during the 2025 Les Houches Summer School ["The Dark Universe"](https://indico.iap.fr/event/25/)
 Currently featured is
